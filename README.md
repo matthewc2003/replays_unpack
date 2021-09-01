@@ -26,3 +26,6 @@ Here is an example of what data can be retrived:
   (including [nested](docs/Packets/0x22.md) properties) without any hardcode: 
   we use .def files from game client to get subpacket ids;
 - extendability and flexibility by providing public api (see examples).
+
+## Forked reason
+- To be used in conjuction with a discord bot for clan discord
